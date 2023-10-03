@@ -1,5 +1,5 @@
 apiVersion: v2
-name: application_helm
+name: umbrella-chart
 description: A Helm chart for to deploy multiple microservices
 type: application
 version: 0.1.0

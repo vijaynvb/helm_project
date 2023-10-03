@@ -1,3 +1,6 @@
+global:
+  useGlobalConfig: true
+
 foo:
   enabled: true
   disabled: false
